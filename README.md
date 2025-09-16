@@ -1,14 +1,5 @@
 # Crop Advisor - Expo Snack Files
 
-This folder contains React Native files optimized for Expo Snack, allowing you to quickly test and share the Crop Advisor mobile app.
-
-## 🚀 Quick Start with Expo Snack
-
-1. **Visit Expo Snack**: Go to [snack.expo.dev](https://snack.expo.dev)
-2. **Upload Files**: Upload all files from this folder to your Snack project
-3. **Test on Device**: Scan the QR code with Expo Go app to test on your phone
-4. **Share**: Share the Snack URL with others for easy demonstration
-
 ## 📱 Features Included
 
 - **Premium UI Design**: Modern color scheme with gradients and glassmorphism
@@ -136,13 +127,3 @@ The app is specifically designed for farmers and agricultural professionals:
 - **Market Intelligence**: Real-time pricing data
 - **Multi-language**: Supports major Indian languages
 
-## 📞 Support
-
-For issues or questions about the Expo Snack files:
-- Check Expo documentation: [docs.expo.dev](https://docs.expo.dev)
-- Verify all dependencies are compatible with Expo SDK 49
-- Ensure proper permissions for camera and location features
-
----
-
-**Ready to test?** Upload these files to Expo Snack and start exploring the Crop Advisor mobile experience!
